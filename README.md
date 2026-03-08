@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou **Daniel Alves**, desenvolvedor apaixonado por construir soluções robustas e escaláveis. Atualmente focado em desenvolvimento com **.NET**, **TypeScript** e conteinerização com **Docker**.
+Olá! Sou **Daniel Alves**, desenvolvedor apaixonado por construir soluções robustas e escaláveis. Atualmente focado em desenvolvimento com **.NET**.
 
 - 🔭 Sempre explorando novas tecnologias e boas práticas
 - 🌱 Aprimorando conhecimentos em arquitetura de software e DevOps
@@ -26,7 +26,6 @@ Olá! Sou **Daniel Alves**, desenvolvedor apaixonado por construir soluções ro
 ### Languages & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,14 +35,13 @@ Olá! Sou **Daniel Alves**, desenvolvedor apaixonado por construir soluções ro
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### Database & Others
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
