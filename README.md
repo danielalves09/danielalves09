@@ -14,7 +14,6 @@ Olá! Sou **Daniel Alves**, desenvolvedor apaixonado por construir soluções ro
 
 - 🔭 Sempre explorando novas tecnologias e boas práticas
 - 🌱 Aprimorando conhecimentos em arquitetura de software e DevOps
-- 💬 Me pergunte sobre **C#**, **.NET**, **TypeScript** ou **Docker**
 - 📫 Como me encontrar: **[github.com/danielalves09](https://github.com/danielalves09)**
 
 ---
