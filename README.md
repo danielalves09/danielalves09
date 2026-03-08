@@ -63,7 +63,7 @@ Olá! Sou **Daniel Alves**, desenvolvedor apaixonado por construir soluções ro
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=danielalves09&theme=gitdimmed&no-frame=true&no-bg=true&column=7&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=danielalves09&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 </div>
 
 ---
