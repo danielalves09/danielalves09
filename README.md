@@ -50,8 +50,8 @@ Olá! Sou **Daniel Alves**, desenvolvedor apaixonado por construir soluções ro
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielalves09&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielalves09&layout=compact&langs_count=7&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=danielalves09&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danielalves09&layout=compact&langs_count=7&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
 </div>
 
 <div align="center">
